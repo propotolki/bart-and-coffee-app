@@ -1,1 +1,0 @@
-import{a,j as n,R as d,b as i,c as p,d as m}from"./Typography-Byh9fUcv.js";const C=t=>{var{mode:o="tint",Component:e="div"}=t,s=a(t,["mode","Component"]);const r=o==="outline"||o==="outline-tint";return n.jsx(d,i(m({},s),{Component:e,baseClassName:p("vkuiCard",o==="outline"&&"vkuiCard--mode-outline",o==="shadow"&&"vkuiCard--mode-shadow",r&&"vkuiCard--withBorder")}))};export{C};
