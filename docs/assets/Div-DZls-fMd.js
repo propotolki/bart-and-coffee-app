@@ -1,0 +1,1 @@
+import{l as o,R as a,q as t}from"./index-C47iWf4D.js";const i=s=>o.jsx(a,t({baseClassName:"vkuiDiv"},s));export{i as D};

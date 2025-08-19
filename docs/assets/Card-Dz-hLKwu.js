@@ -1,0 +1,1 @@
+import{_ as n,l as a,R as i,m as d,n as p,q as m}from"./index-C47iWf4D.js";const C=t=>{var{mode:o="tint",Component:e="div"}=t,s=n(t,["mode","Component"]);const r=o==="outline"||o==="outline-tint";return a.jsx(i,d(m({},s),{Component:e,baseClassName:p("vkuiCard",o==="outline"&&"vkuiCard--mode-outline",o==="shadow"&&"vkuiCard--mode-shadow",r&&"vkuiCard--withBorder")}))};export{C};
